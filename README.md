@@ -1,1 +1,3 @@
 # editorconfig
+
+My `.editorconfig` templates.
